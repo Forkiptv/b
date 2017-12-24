@@ -1,9 +1,5 @@
 
-
-domingo, 24 de dezembro de 2017
-12:45
-
-﻿#EXTM3U
+#EXTM3U
 #EXTM3U
 #EXTINF:0 group-title="CANAIS BRASILEIROS",  ´
 #EXTSIZE: Big
@@ -20,5 +16,5 @@ http://s.vstreaming.net/movies/thisisyourdeath-dub-720p.mp4
 http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/AMLDODA.mp4
 
 #EXTINF:0 group-title="A MULHER MAIS ODIADA DIA ESTADOS UNIDOS", A MULHER MAIS ODIADA DOS ESTADOS UNIDOS
-http://cdnv7.ec.cx/RedeCanais/RedeCa
+http://cdnv7.ec.cx/RedeCanais/RedeCaRedeC
 
