@@ -1,0 +1,24 @@
+
+
+domingo, 24 de dezembro de 2017
+12:45
+
+﻿#EXTM3U
+#EXTM3U
+#EXTINF:0 group-title="CANAIS BRASILEIROS",  ´
+#EXTSIZE: Big
+#EXTBG:http://i.imgur.com/rR0GWJK.jpg
+http://0.0.0.0
+
+#EXTINF:0 group-title="ALEM DA MORTE", ALEM DA MORTE
+http://s.vstreaming.net/movies/alemdamorte-dub-720p.mp4
+
+#EXTINF:0 group-title="ESTA É A SUA MORTE", ESTA É A SUA MORTE
+http://s.vstreaming.net/movies/thisisyourdeath-dub-720p.mp4
+
+#EXTINF:0 group-title="AMALDIÇOADA", AMALDIÇOADA
+http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/AMLDODA.mp4
+
+#EXTINF:0 group-title="A MULHER MAIS ODIADA DIA ESTADOS UNIDOS", A MULHER MAIS ODIADA DOS ESTADOS UNIDOS
+http://cdnv7.ec.cx/RedeCanais/RedeCa
+
