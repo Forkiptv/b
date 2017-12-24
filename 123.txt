@@ -18,3 +18,6 @@ http://cdnv7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/AMLHRMSODADEUA.mp4
 
 #EXTINF:0 group-title="DUNKIRK", DUNKIRK
 http://s.vstreaming.net/movies/dunkirk-dub-720p.mp4
+
+#EXTINF:0 group-title="A NOITE É DELAS", A NOITE É DELAS
+http://cdn.vstreaming.net/movies/noitedelas-dub-1080p.mp4
