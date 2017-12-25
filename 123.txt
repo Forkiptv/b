@@ -21,3 +21,7 @@ http://s.vstreaming.net/movies/dunkirk-dub-720p.mp4
 
 #EXTINF:0 group-title="A NOITE É DELAS", A NOITE É DELAS
 http://cdn.vstreaming.net/movies/noitedelas-dub-1080p.mp4
+
+
+#EXTINF:0 group-title="AGUAS RASAS", AGUAS RASAS
+http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/AGUSRAS.mp4
