@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTINF:-1 tvg-logo="https://goo.gl/BPU3xS" group-title="LANCAMENTOS, #EXTM3U
 #EXTINF:-1 tvg-logo="https://goo.gl/BPU3xS" group-title="LANCAMENTOS", Uma Mulher Fantástica (Legendado) - 2017 
 http://cdnv18.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/UMMLHRFNTSTCLEG.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/BPU3xS" group-title="LANCAMENTOS", Pottersville: Quanto Mais Selvagem Melhor (Dublado) - 2017
@@ -28,8 +28,8 @@ http://cdnv12.ec.cx/RedeCanais/RCFServer3/ondemand/PRFTEAMA.mp4
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://goo.gl/BPU3xS" group-title="LANCAMENTOS,   Segredos de Sangue
+http://s001.thevid.net/v/4885d8072da7ad411cddfc3771dbff7e.mp4?e=1516165027&sa=-Zu6cxHpxoQP30Gu-CyAKA&st=gPvVWpUgM6Xxrrbzp6_jDw
 
 #EXTINF:-1 tvg-logo="https://goo.gl/BPU3xS" group-title="LANCAMENTOS, O Sacrifício do Cervo Sagrado 2017 Legendado
 http://s001.thevid.net/v/2beaa6cbc6c8eab9137158e432a3b667.mp4?e=1516163846&sa=NDLz30jCQlmkpz8uyBUObA&st=s4jVuraWzFZFLDn8fXgW6g
