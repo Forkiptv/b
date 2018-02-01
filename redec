@@ -5,6 +5,10 @@
 #EXTINF:-1 tvg-logo="https://goo.gl/BPU3xS" group-title="LANCAMENTOS", BBB18
 http://tv.ec.cx:1935/redecanais-stream-bbb18/myStream/chunklist_w324040630.m3u8
 
-3
+
+#EXTINF:-1 tvg-logo="https://goo.gl/BPU3xS" group-title="LANCAMENTOS", Sobreviventes
+http://185.38.12.40/sec/1517558482/353335300acda53641a2bf3adcd3d2a509f5c6b60d380c1c/ivs/f2/60/f548d9febd83/hls/tracks-1,4/index.m3u8
+
+
 
 ​
