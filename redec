@@ -5,8 +5,8 @@
 #EXTINF:-1 tvg-logo="https://goo.gl/BPU3xS" group-title="LANCAMENTOS", BBB18
 http://tv.ec.cx:1935/redecanais-stream-bbb18/myStream/chunklist_w324040630.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://goo.gl/BPU3xS" group-title="LANCAMENTOS", EXTRAORDINÁRIO
+http://s006.thevid.net/v/354ef7e1308532c5d967cdca25fe470f.mp4?e=1517793388&sa=htPKZNcunp-3gYEx07sNkA&st=OxTP33YGacPchX8FIKC9Tg
 
 
 #EXTINF:-1 tvg-logo="https://goo.gl/BPU3xS" group-title="LANCAMENTOS",  O Digno
