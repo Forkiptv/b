@@ -35,3 +35,7 @@ http://37.220.39.62/sec/1518597315/34363030d786c4015ec27cab8507d02fe81125d9045ae
 
 #EXTINF:-1 tvg-logo="https://goo.gl/BPU3xS" group-title="LANCAMENTO", Roman
 https://c23.vidlox.tv/hls/oudvgvb7p5tk2yixv4p6gc3qc2qvzqsnwtvpey2hng2aaiiqxzqcyifllj4a/index-v1-a1.m3u8
+
+
+#EXTINF: group-title="LANCAMENTO",    VIZINHO
+https://c13.vidlox.tv/hls/oudvhx32prtk2yixv5x6gutrdkwxgmh5o7dczy6tmmc4wlvxxrzvpvxsv4la/index-v1-a1.m3u8
