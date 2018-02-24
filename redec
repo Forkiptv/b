@@ -1,0 +1,6 @@
+#EXTM3U
+
+2
+
+#EXTINF:-1 tvg-logo="https://goo.gl/BPU3xS" group-title="LANCAMENTOS", BBB18
+http://tv.ec.cx:1935/redecanais-stream-bbb18/myStream/chunklist_w324040630.m3u8
