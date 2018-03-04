@@ -2,5 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://goo.gl/BPU3xS" group-title="LANCAMENTOS",  CHURCHILL
+#EXTINF: group-title="LANCAMENTOS",  CHURCHILL
 http://v7.ec.cx/RedeCanais/RedeCanais/RCFServer4/ondemand/CHRCHL.mp4
+#EXTINF: group-title="LANCAMENTOS", CURVATURE
+http://s001.thevid.net/v/0f08bc512fb60ef6a9f24d60f598ef39.mp4?e=1520198894&sa=v7qp5ScVGlwT8TUb8bd6ug&st=jihC3XwUQ0NUEVokUndg2w
